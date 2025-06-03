@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Core Platform",
+    "color": "#3B82F6",
+    "icon": "Database",
+    "taskCount": 5,
+    "completedCount": 1
+  },
+  {
+    "id": "2",
+    "name": "User Experience",
+    "color": "#8B5CF6",
+    "icon": "Palette",
+    "taskCount": 6,
+    "completedCount": 2
+  },
+  {
+    "id": "3",
+    "name": "Infrastructure",
+    "color": "#10B981",
+    "icon": "Server",
+    "taskCount": 5,
+    "completedCount": 1
+  },
+  {
+    "id": "4",
+    "name": "Mobile Development",
+    "color": "#F59E0B",
+    "icon": "Smartphone",
+    "taskCount": 3,
+    "completedCount": 0
+  },
+  {
+    "id": "5",
+    "name": "Marketing & Growth",
+    "color": "#EF4444",
+    "icon": "TrendingUp",
+    "taskCount": 4,
+    "completedCount": 1
+  },
+  {
+    "id": "6",
+    "name": "Analytics & Reporting",
+    "color": "#6366F1",
+    "icon": "BarChart3",
+    "taskCount": 2,
+    "completedCount": 0
+  },
+  {
+    "id": "7",
+    "name": "Customer Support",
+    "color": "#EC4899",
+    "icon": "HeadphonesIcon",
+    "taskCount": 3,
+    "completedCount": 1
+  },
+  {
+    "id": "8",
+    "name": "Content Management",
+    "color": "#14B8A6",
+    "icon": "FileText",
+    "taskCount": 2,
+    "completedCount": 0
+  },
+  {
+    "id": "9",
+    "name": "Integration & APIs",
+    "color": "#F97316",
+    "icon": "Workflow",
+    "taskCount": 4,
+    "completedCount": 1
+  },
+  {
+    "id": "10",
+    "name": "Quality Assurance",
+    "color": "#84CC16",
+    "icon": "CheckCircle",
+    "taskCount": 3,
+    "completedCount": 2
+  }
+]
